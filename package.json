@@ -1,0 +1,17 @@
+{
+  "name": "@nntrn/datalib-extras",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "annie tran (https://github.com/nntrn)",
+  "license": "MIT",
+  "dependencies": {
+    "datalib": "^1.9.2"
+  }
+}

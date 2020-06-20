@@ -1,0 +1,887 @@
+[
+  {
+    "name": "id",
+    "dataType": "number",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "node_id",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "name",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "full_name",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "private",
+    "dataType": "boolean",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 1,
+    "topValues": [
+      {
+        "value": "false",
+        "count": 30,
+        "pct": 1
+      }
+    ]
+  },
+  {
+    "name": "owner_login",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "OfficeDev",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_id",
+    "dataType": "number",
+    "summaryType": "quantitative",
+    "valid": 30,
+    "missing": 0,
+    "distinct": 28,
+    "min": 67258,
+    "max": 57786711,
+    "median": 4321989.5,
+    "mean": 9276635.97,
+    "stdev": 14481066.41,
+    "modeskew": 0.34
+  },
+  {
+    "name": "owner_node_id",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "MDEyOk9yZ2FuaXphdGlvbjY3ODkzNjI=",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_avatar_url",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "https://avatars2.githubusercontent.com/u/6789362?v=4",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_gravatar_id",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 1,
+    "topValues": [
+      {
+        "value": "(blank)",
+        "count": 30,
+        "pct": 1
+      }
+    ]
+  },
+  {
+    "name": "owner_url",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "https://api.github.com/users/OfficeDev",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_html_url",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "https://github.com/OfficeDev",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_followers_url",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "https://api.github.com/users/OfficeDev/followers",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_following_url",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "https://api.github.com/users/OfficeDev/following{/other_user}",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_gists_url",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "https://api.github.com/users/OfficeDev/gists{/gist_id}",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_starred_url",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "https://api.github.com/users/OfficeDev/starred{/owner}{/repo}",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_subscriptions_url",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "https://api.github.com/users/OfficeDev/subscriptions",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_organizations_url",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "https://api.github.com/users/OfficeDev/orgs",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_repos_url",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "https://api.github.com/users/OfficeDev/repos",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_events_url",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "https://api.github.com/users/OfficeDev/events{/privacy}",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_received_events_url",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 28,
+    "topValues": [
+      {
+        "value": "https://api.github.com/users/OfficeDev/received_events",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "value": "other",
+        "count": 27,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "name": "owner_type",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 2,
+    "topValues": [
+      {
+        "value": "User",
+        "count": 17,
+        "pct": 0.567
+      },
+      {
+        "value": "Organization",
+        "count": 13,
+        "pct": 0.433
+      }
+    ]
+  },
+  {
+    "name": "owner_site_admin",
+    "dataType": "boolean",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 1,
+    "topValues": [
+      {
+        "value": "false",
+        "count": 30,
+        "pct": 1
+      }
+    ]
+  },
+  {
+    "name": "html_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "description",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 28,
+    "distinct": 29,
+    "topValues": [
+      {
+        "value": "undefined",
+        "count": 2,
+        "pct": 0.071
+      },
+      {
+        "value": "other",
+        "count": 28,
+        "pct": 1
+      }
+    ]
+  },
+  {
+    "name": "fork",
+    "dataType": "boolean",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 1,
+    "topValues": [
+      {
+        "value": "false",
+        "count": 30,
+        "pct": 1
+      }
+    ]
+  },
+  {
+    "name": "url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "forks_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "keys_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "collaborators_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "teams_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "hooks_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "issue_events_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "events_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "assignees_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "branches_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "tags_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "blobs_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "git_tags_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "git_refs_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "trees_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "statuses_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "languages_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "stargazers_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "contributors_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "subscribers_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "subscription_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "commits_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "git_commits_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "comments_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "issue_comment_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "contents_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "compare_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "merges_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "archive_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "downloads_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "issues_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "pulls_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "milestones_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "notifications_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "labels_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "releases_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "deployments_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "created_at",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "updated_at",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "pushed_at",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "git_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "ssh_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "clone_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "svn_url",
+    "dataType": "string",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "homepage",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 26,
+    "distinct": 16,
+    "topValues": [
+      {
+        "value": "(blank)",
+        "count": 12,
+        "pct": 0.462
+      },
+      {
+        "value": "undefined",
+        "count": 4,
+        "pct": 0.154
+      },
+      {
+        "value": "other",
+        "count": 14,
+        "pct": 0.538
+      }
+    ]
+  },
+  {
+    "name": "size",
+    "dataType": "number",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "stargazers_count",
+    "dataType": "number",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "watchers_count",
+    "dataType": "number",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "language",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 28,
+    "distinct": 11,
+    "topValues": [
+      {
+        "value": "JavaScript",
+        "count": 14,
+        "pct": 0.5
+      },
+      {
+        "value": "TypeScript",
+        "count": 4,
+        "pct": 0.143
+      },
+      {
+        "value": "PowerShell",
+        "count": 3,
+        "pct": 0.107
+      },
+      {
+        "value": "undefined",
+        "count": 2,
+        "pct": 0.071
+      },
+      {
+        "value": "other",
+        "count": 7,
+        "pct": 0.25
+      }
+    ]
+  },
+  {
+    "name": "has_issues",
+    "dataType": "boolean",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 1,
+    "topValues": [
+      {
+        "value": "true",
+        "count": 30,
+        "pct": 1
+      }
+    ]
+  },
+  {
+    "name": "has_projects",
+    "dataType": "boolean",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 2,
+    "topValues": [
+      {
+        "value": "true",
+        "count": 26,
+        "pct": 0.867
+      },
+      {
+        "value": "false",
+        "count": 4,
+        "pct": 0.133
+      }
+    ]
+  },
+  {
+    "name": "has_downloads",
+    "dataType": "boolean",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 1,
+    "topValues": [
+      {
+        "value": "true",
+        "count": 30,
+        "pct": 1
+      }
+    ]
+  },
+  {
+    "name": "has_wiki",
+    "dataType": "boolean",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 2,
+    "topValues": [
+      {
+        "value": "true",
+        "count": 25,
+        "pct": 0.833
+      },
+      {
+        "value": "false",
+        "count": 5,
+        "pct": 0.167
+      }
+    ]
+  },
+  {
+    "name": "has_pages",
+    "dataType": "boolean",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 2,
+    "topValues": [
+      {
+        "value": "false",
+        "count": 19,
+        "pct": 0.633
+      },
+      {
+        "value": "true",
+        "count": 11,
+        "pct": 0.367
+      }
+    ]
+  },
+  {
+    "name": "forks_count",
+    "dataType": "number",
+    "summaryType": "quantitative",
+    "valid": 30,
+    "missing": 0,
+    "distinct": 28,
+    "min": 0,
+    "max": 6109,
+    "median": 177.5,
+    "mean": 508.43,
+    "stdev": 1157.56,
+    "modeskew": 0.29
+  },
+  {
+    "name": "archived",
+    "dataType": "boolean",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 1,
+    "topValues": [
+      {
+        "value": "false",
+        "count": 30,
+        "pct": 1
+      }
+    ]
+  },
+  {
+    "name": "disabled",
+    "dataType": "boolean",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 1,
+    "topValues": [
+      {
+        "value": "false",
+        "count": 30,
+        "pct": 1
+      }
+    ]
+  },
+  {
+    "name": "open_issues_count",
+    "dataType": "number",
+    "summaryType": "quantitative",
+    "valid": 30,
+    "missing": 0,
+    "distinct": 24,
+    "min": 0,
+    "max": 1013,
+    "median": 18.5,
+    "mean": 63.2,
+    "stdev": 182.97,
+    "modeskew": 0.24
+  },
+  {
+    "name": "forks",
+    "dataType": "number",
+    "summaryType": "quantitative",
+    "valid": 30,
+    "missing": 0,
+    "distinct": 28,
+    "min": 0,
+    "max": 6109,
+    "median": 177.5,
+    "mean": 508.43,
+    "stdev": 1157.56,
+    "modeskew": 0.29
+  },
+  {
+    "name": "open_issues",
+    "dataType": "number",
+    "summaryType": "quantitative",
+    "valid": 30,
+    "missing": 0,
+    "distinct": 24,
+    "min": 0,
+    "max": 1013,
+    "median": 18.5,
+    "mean": 63.2,
+    "stdev": 182.97,
+    "modeskew": 0.24
+  },
+  {
+    "name": "watchers",
+    "dataType": "number",
+    "summaryType": "distinct"
+  },
+  {
+    "name": "default_branch",
+    "dataType": "string",
+    "summaryType": "categorical",
+    "valid": 30,
+    "distinct": 2,
+    "topValues": [
+      {
+        "value": "master",
+        "count": 29,
+        "pct": 0.967
+      },
+      {
+        "value": "gh-pages",
+        "count": 1,
+        "pct": 0.033
+      }
+    ]
+  }
+]
