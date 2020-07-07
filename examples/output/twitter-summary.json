@@ -19,12 +19,12 @@
       {
         "value": "false",
         "count": 1019,
-        "pct": 0.851
+        "%": 0.851
       },
       {
         "value": "true",
         "count": 179,
-        "pct": 0.149
+        "%": 0.149
       }
     ]
   },
@@ -38,12 +38,12 @@
       {
         "value": "true",
         "count": 604,
-        "pct": 0.504
+        "%": 0.504
       },
       {
         "value": "false",
         "count": 594,
-        "pct": 0.496
+        "%": 0.496
       }
     ]
   },
@@ -57,7 +57,7 @@
       {
         "value": "false",
         "count": 1198,
-        "pct": 1
+        "%": 1
       }
     ]
   },
@@ -71,107 +71,107 @@
       {
         "value": "Tiffany",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "BLACK LIVES MATTER",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Ashley Nguyen",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": ".",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "John Duong",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Chris",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Tina",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Linh",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Kim",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Hannah",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Peter Nguyen",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "jessica",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Anthony Nguyen",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Andy Nguyen",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Christina Nguyen",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "G",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "brian",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Lisa Nguyen",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Jessica Tran",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Amy",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Phong Duong",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "other",
@@ -195,7 +195,7 @@
       {
         "value": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
         "count": 6,
-        "pct": 0.005
+        "%": 0.005
       },
       {
         "value": "other",
@@ -214,7 +214,7 @@
       {
         "value": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
         "count": 6,
-        "pct": 0.005
+        "%": 0.005
       },
       {
         "value": "other",
@@ -233,237 +233,237 @@
       {
         "value": "(blank)",
         "count": 488,
-        "pct": 0.407
+        "%": 0.407
       },
       {
         "value": "Houston, TX",
         "count": 167,
-        "pct": 0.139
+        "%": 0.139
       },
       {
         "value": "Austin, TX",
         "count": 29,
-        "pct": 0.024
+        "%": 0.024
       },
       {
         "value": "Houston",
         "count": 28,
-        "pct": 0.023
+        "%": 0.023
       },
       {
         "value": "Houston, Texas",
         "count": 22,
-        "pct": 0.018
+        "%": 0.018
       },
       {
         "value": "HTX",
         "count": 15,
-        "pct": 0.013
+        "%": 0.013
       },
       {
         "value": "Dallas, TX",
         "count": 15,
-        "pct": 0.013
+        "%": 0.013
       },
       {
         "value": "Los Angeles, CA",
         "count": 14,
-        "pct": 0.012
+        "%": 0.012
       },
       {
         "value": "New York, NY",
         "count": 13,
-        "pct": 0.011
+        "%": 0.011
       },
       {
         "value": "Texas",
         "count": 12,
-        "pct": 0.01
+        "%": 0.01
       },
       {
         "value": "houston",
         "count": 9,
-        "pct": 0.008
+        "%": 0.008
       },
       {
         "value": "Texas, USA",
         "count": 8,
-        "pct": 0.007
+        "%": 0.007
       },
       {
         "value": "New York",
         "count": 8,
-        "pct": 0.007
+        "%": 0.007
       },
       {
         "value": "htx",
         "count": 7,
-        "pct": 0.006
+        "%": 0.006
       },
       {
         "value": "Los Angeles",
         "count": 7,
-        "pct": 0.006
+        "%": 0.006
       },
       {
         "value": "Houston, Tx",
         "count": 5,
-        "pct": 0.004
+        "%": 0.004
       },
       {
         "value": "Washington, DC",
         "count": 5,
-        "pct": 0.004
+        "%": 0.004
       },
       {
         "value": "San Francisco, CA",
         "count": 5,
-        "pct": 0.004
+        "%": 0.004
       },
       {
         "value": "Everywhere",
         "count": 4,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "houston, tx",
         "count": 4,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "Austin, Texas",
         "count": 4,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "United States",
         "count": 4,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "Fort Worth, TX",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "Brooklyn, NY",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "Sugar Land, TX",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "Seattle, WA",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "Houston, TX, USA",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "San Antonio, TX",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "Oklahoma",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "Arlington, TX",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "Alief, Houston",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "713",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Houston, Flexas",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "International",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "HTX ",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "California",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Boston, MA",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "New York City",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "houston.",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Plano, TX",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "ATX ",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Houston ",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "houston, TX",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Paris, France",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "htx.",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "houston, texas",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "Johto",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "other",
@@ -482,12 +482,12 @@
       {
         "value": "false",
         "count": 902,
-        "pct": 0.753
+        "%": 0.753
       },
       {
         "value": "true",
         "count": 296,
-        "pct": 0.247
+        "%": 0.247
       }
     ]
   },
@@ -571,12 +571,12 @@
       {
         "value": "false",
         "count": 878,
-        "pct": 0.733
+        "%": 0.733
       },
       {
         "value": "true",
         "count": 320,
-        "pct": 0.267
+        "%": 0.267
       }
     ]
   },
@@ -590,12 +590,12 @@
       {
         "value": "false",
         "count": 956,
-        "pct": 0.798
+        "%": 0.798
       },
       {
         "value": "true",
         "count": 242,
-        "pct": 0.202
+        "%": 0.202
       }
     ]
   },
@@ -609,252 +609,252 @@
       {
         "value": "nguyen",
         "count": 47,
-        "pct": 0.039
+        "%": 0.039
       },
       {
         "value": "pham",
         "count": 17,
-        "pct": 0.014
+        "%": 0.014
       },
       {
         "value": "the",
         "count": 13,
-        "pct": 0.011
+        "%": 0.011
       },
       {
         "value": "a",
         "count": 7,
-        "pct": 0.006
+        "%": 0.006
       },
       {
         "value": "s",
         "count": 7,
-        "pct": 0.006
+        "%": 0.006
       },
       {
         "value": "chen",
         "count": 5,
-        "pct": 0.004
+        "%": 0.004
       },
       {
         "value": "ryan",
         "count": 5,
-        "pct": 0.004
+        "%": 0.004
       },
       {
         "value": "phan",
         "count": 5,
-        "pct": 0.004
+        "%": 0.004
       },
       {
         "value": "michael",
         "count": 4,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "christina",
         "count": 4,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "p",
         "count": 4,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "richard",
         "count": 4,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "dinh",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "ann",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "kevin",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "♡",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "cao",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "e",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "victoria",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "t",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "news",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "jessica",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "buzzfeed",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "b",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "donaldtrump",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "stephanie",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "black lives matter",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "ruiz",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "brandon",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "houston",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "evan",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "ashleynguyen",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "tea",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "r",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "xuan",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "daniel",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "tom",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "johnduong",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "wang",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "q",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "jen",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "jennifer",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "navarro",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "tu",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "tan",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "phi",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "ant",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "lin",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "sharon",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "billy",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "other",
@@ -873,197 +873,197 @@
       {
         "value": "nguyen",
         "count": 12,
-        "pct": 0.01
+        "%": 0.01
       },
       {
         "value": "jennifer",
         "count": 5,
-        "pct": 0.004
+        "%": 0.004
       },
       {
         "value": "kevin",
         "count": 5,
-        "pct": 0.004
+        "%": 0.004
       },
       {
         "value": "danny",
         "count": 4,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "c",
         "count": 4,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "e",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "michelle",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "mai",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "t",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "ho",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "houston",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "a",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "van",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "tea",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "annie",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "pokemon",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "mike",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "megan",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "j",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "shannon",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "alexander",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "chris",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "hannah",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "linh",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "ma",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "tommy",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "buzzfeed",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "daddy",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "andynguyen",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "of",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "g",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "lisa nguyen",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "wang",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "mr",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "joe",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "mylynn",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "propaganda",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "austin",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "jessica",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "other",
@@ -1082,227 +1082,227 @@
       {
         "value": "undefined",
         "count": 44,
-        "pct": 0.038
+        "%": 0.038
       },
       {
         "value": "b",
         "count": 4,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "nguyen",
         "count": 4,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "of",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "jessica",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "lambdas",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "michelle",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "steven",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "john",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "kim",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "jason",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "kevin",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "huynh",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "houston",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "shitpost",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "propaganda",
         "count": 3,
-        "pct": 0.003
+        "%": 0.003
       },
       {
         "value": "1",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "3",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "vo",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "tiffany",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "le",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "christy",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "anh",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "dang",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "thai",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "tran",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "jade",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "nathan",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "bui",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "billy",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "thao",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "ho",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "tina",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "doan",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "tim",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "kev",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "trieu",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "s",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "emily",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "x",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "c",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "tammy",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "jessica tran",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "amy",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "d",
         "count": 2,
-        "pct": 0.002
+        "%": 0.002
       },
       {
         "value": "other",
@@ -1321,7 +1321,7 @@
       {
         "value": "false",
         "count": 1198,
-        "pct": 1
+        "%": 1
       }
     ]
   }

@@ -29,7 +29,7 @@
       {
         "value": "false",
         "count": 30,
-        "pct": 1
+        "%": 1
       }
     ]
   },
@@ -43,7 +43,7 @@
       {
         "value": "OfficeDev",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -76,7 +76,7 @@
       {
         "value": "MDEyOk9yZ2FuaXphdGlvbjY3ODkzNjI=",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -95,7 +95,7 @@
       {
         "value": "https://avatars2.githubusercontent.com/u/6789362?v=4",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -114,7 +114,7 @@
       {
         "value": "(blank)",
         "count": 30,
-        "pct": 1
+        "%": 1
       }
     ]
   },
@@ -128,7 +128,7 @@
       {
         "value": "https://api.github.com/users/OfficeDev",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -147,7 +147,7 @@
       {
         "value": "https://github.com/OfficeDev",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -166,7 +166,7 @@
       {
         "value": "https://api.github.com/users/OfficeDev/followers",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -185,7 +185,7 @@
       {
         "value": "https://api.github.com/users/OfficeDev/following{/other_user}",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -204,7 +204,7 @@
       {
         "value": "https://api.github.com/users/OfficeDev/gists{/gist_id}",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -223,7 +223,7 @@
       {
         "value": "https://api.github.com/users/OfficeDev/starred{/owner}{/repo}",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -242,7 +242,7 @@
       {
         "value": "https://api.github.com/users/OfficeDev/subscriptions",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -261,7 +261,7 @@
       {
         "value": "https://api.github.com/users/OfficeDev/orgs",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -280,7 +280,7 @@
       {
         "value": "https://api.github.com/users/OfficeDev/repos",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -299,7 +299,7 @@
       {
         "value": "https://api.github.com/users/OfficeDev/events{/privacy}",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -318,7 +318,7 @@
       {
         "value": "https://api.github.com/users/OfficeDev/received_events",
         "count": 3,
-        "pct": 0.1
+        "%": 0.1
       },
       {
         "value": "other",
@@ -337,12 +337,12 @@
       {
         "value": "User",
         "count": 17,
-        "pct": 0.567
+        "%": 0.567
       },
       {
         "value": "Organization",
         "count": 13,
-        "pct": 0.433
+        "%": 0.433
       }
     ]
   },
@@ -356,7 +356,7 @@
       {
         "value": "false",
         "count": 30,
-        "pct": 1
+        "%": 1
       }
     ]
   },
@@ -375,7 +375,7 @@
       {
         "value": "undefined",
         "count": 2,
-        "pct": 0.071
+        "%": 0.071
       },
       {
         "value": "other",
@@ -394,7 +394,7 @@
       {
         "value": "false",
         "count": 30,
-        "pct": 1
+        "%": 1
       }
     ]
   },
@@ -628,12 +628,12 @@
       {
         "value": "(blank)",
         "count": 12,
-        "pct": 0.462
+        "%": 0.462
       },
       {
         "value": "undefined",
         "count": 4,
-        "pct": 0.154
+        "%": 0.154
       },
       {
         "value": "other",
@@ -667,27 +667,57 @@
       {
         "value": "JavaScript",
         "count": 14,
-        "pct": 0.5
+        "%": 0.5
       },
       {
         "value": "TypeScript",
         "count": 4,
-        "pct": 0.143
+        "%": 0.143
       },
       {
         "value": "PowerShell",
         "count": 3,
-        "pct": 0.107
+        "%": 0.107
       },
       {
         "value": "undefined",
         "count": 2,
-        "pct": 0.071
+        "%": 0.071
       },
       {
-        "value": "other",
-        "count": 7,
-        "pct": 0.25
+        "value": "HTML",
+        "count": 1,
+        "%": 0.036
+      },
+      {
+        "value": "C#",
+        "count": 1,
+        "%": 0.036
+      },
+      {
+        "value": "C++",
+        "count": 1,
+        "%": 0.036
+      },
+      {
+        "value": "TeX",
+        "count": 1,
+        "%": 0.036
+      },
+      {
+        "value": "CSS",
+        "count": 1,
+        "%": 0.036
+      },
+      {
+        "value": "Shell",
+        "count": 1,
+        "%": 0.036
+      },
+      {
+        "value": "Python",
+        "count": 1,
+        "%": 0.036
       }
     ]
   },
@@ -701,7 +731,7 @@
       {
         "value": "true",
         "count": 30,
-        "pct": 1
+        "%": 1
       }
     ]
   },
@@ -715,12 +745,12 @@
       {
         "value": "true",
         "count": 26,
-        "pct": 0.867
+        "%": 0.867
       },
       {
         "value": "false",
         "count": 4,
-        "pct": 0.133
+        "%": 0.133
       }
     ]
   },
@@ -734,7 +764,7 @@
       {
         "value": "true",
         "count": 30,
-        "pct": 1
+        "%": 1
       }
     ]
   },
@@ -748,12 +778,12 @@
       {
         "value": "true",
         "count": 25,
-        "pct": 0.833
+        "%": 0.833
       },
       {
         "value": "false",
         "count": 5,
-        "pct": 0.167
+        "%": 0.167
       }
     ]
   },
@@ -767,12 +797,12 @@
       {
         "value": "false",
         "count": 19,
-        "pct": 0.633
+        "%": 0.633
       },
       {
         "value": "true",
         "count": 11,
-        "pct": 0.367
+        "%": 0.367
       }
     ]
   },
@@ -800,7 +830,7 @@
       {
         "value": "false",
         "count": 30,
-        "pct": 1
+        "%": 1
       }
     ]
   },
@@ -814,7 +844,7 @@
       {
         "value": "false",
         "count": 30,
-        "pct": 1
+        "%": 1
       }
     ]
   },
@@ -875,12 +905,12 @@
       {
         "value": "master",
         "count": 29,
-        "pct": 0.967
+        "%": 0.967
       },
       {
         "value": "gh-pages",
         "count": 1,
-        "pct": 0.033
+        "%": 0.033
       }
     ]
   }
