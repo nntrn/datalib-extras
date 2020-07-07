@@ -1,6 +1,6 @@
 {
   "name": "@nntrn/datalib-extras",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "files": [
     "lib"
@@ -13,5 +13,15 @@
   "license": "MIT",
   "dependencies": {
     "datalib": "^1.9.2"
-  }
+  },
+  "description": "datalib + a little more",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nntrn/datalib-extras.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nntrn/datalib-extras/issues"
+  },
+  "homepage": "https://github.com/nntrn/datalib-extras#readme"
 }
